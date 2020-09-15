@@ -1,3 +1,4 @@
+// Copyright of Codebird Ltd 2020 - inclusive ©
 
 #include "Timer.h"
 
